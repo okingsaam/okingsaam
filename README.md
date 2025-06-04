@@ -55,6 +55,3 @@ My name is Sam Douglas, I am a developer in the city of Salvador, Brazil, with a
 ###
 ---
 
-### 🐍 Snake animation
-
-![Snake animation](https://raw.githubusercontent.com/okingsaam/okingsaam/output/snake.svg)
