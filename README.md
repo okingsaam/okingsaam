@@ -24,16 +24,12 @@
 </p>
 <p align="left">
 
-<a href="mailto:douglasferreira.dev@gmail.com">
+<a href="mailto:samdouglask10@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://discord.gg/okingsaam" alt="Discord">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
-
-<a href="https://twitter.com/okingsaam" alt="Twitter">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/sam-douglas-6076b91b8/" alt="LinkedIn">
