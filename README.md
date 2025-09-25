@@ -1,75 +1,86 @@
-# Sam Douglas
-
-<img src="https://iili.io/HyiXz8P.png" min-width="300px" max-width="300px" width="300px" align="right">
-
-<p align="left">
-      Olá! Sou <strong>Sam Douglas</strong>, apaixonado por <strong>Bancos de Dados</strong> e entusiasta de <strong>Backend</strong>. 
-      Meu foco é transformar dados em soluções organizadas, seguras e escaláveis.
+<h1 align="center">👨‍💻 Sam Douglas</h1>
+<p align="center">
+  <strong>Desenvolvedor Back-End Júnior</strong>  
+  🐍 Python • ☕ Java • 🌐 Django • 🗄️ MySQL & PostgreSQL
 </p>
 
-<p align="left">
-      🗄️ Atualmente, sou responsável pela <strong>arquitetura de banco de dados</strong> no projeto <strong>CodexLanche</strong>, 
-      um sistema multi-tenant para lanchonetes e pizzarias, desenvolvido com <strong>MySQL</strong> para garantir 
-      normalização, performance e segurança.
+<p align="center">
+  <a href="https://linkedin.com/in/sam-douglas-6076b91b8"><img src="https://img.shields.io/badge/LinkedIn-SamDouglas-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/okingsaam"><img src="https://img.shields.io/badge/GitHub-okingsaam-181717?style=flat&logo=github&logoColor=white"></a>
 </p>
-
-<p align="left">
-      🚀 Paralelamente, estou aprimorando minhas habilidades em <strong>Java</strong> e <strong>Python</strong>, com foco em 
-      <strong>desenvolvimento backend</strong>. Meu objetivo é unir uma base sólida em <strong>SQL</strong> e modelagem de dados 
-      com boas práticas de programação para entregar sistemas completos e confiáveis.
-</p>
-
-<p align="left">
- <strong>Você pode me encontrar em:<strong>
-</p>
-<p align="left">
-
-<a href="mailto:samdouglask10@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://discord.gg/okingsaam" alt="Discord">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/sam-douglas-6076b91b8/" alt="LinkedIn">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
 
 ---
 
-# Minhas Habilidades
+## 🧠 Sobre Mim  
 
-### Linguagens & Frameworks
+Sou **Douglas Santos**, estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia e resolução de problemas.  
+Atuo principalmente com **back-end**, desenvolvendo **APIs REST**, integrações com bancos de dados e sistemas escaláveis.  
 
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-  ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-  
-### Ferramentas & Bancos de Dados
-
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+- 🎓 Formação em andamento: **ADS**  
+- 🐍 Experiência prática em **Python** com **Django** e automações  
+- ☕ Conhecimento em **Java** (POO e aplicações simples)  
+- 🗄️ Modelagem e consultas avançadas em **MySQL** e **PostgreSQL**  
+- 🚀 Interesse em **boas práticas de desenvolvimento, clean code e arquitetura de software**  
+- 🔎 Buscando oportunidades para atuar como **Desenvolvedor Back-End**  
 
 ---
 
-# Meu Status
+## 🛠️ Tecnologias & Ferramentas  
 
-<div align="center">
- <img src="https://github-readme-stats-sigma-five.vercel.app/api/?username=okingsaam&theme=react&line_height=20&hide=css&count_private=true"/>
- 
- <picture>
- <source 
-   srcset="https://github-readme-stats.vercel.app/api?username=okingsaam&show_icons=true&theme=dark"
-   media="(prefers-color-scheme: dark)"
- />
- <source
-   srcset="https://github-readme-stats.vercel.app/api?username=okingsaam&show_icons=true"
-   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"        
- />
-</picture>
-</div>
+### 💻 Linguagens e Frameworks
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+
+### 🗄️ Bancos de Dados
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+
+### 🧰 Ferramentas
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+---
+
+## 📂 Projetos em Destaque  
+
+🔹 [**CodexLanche (Banco de Dados Multi-Tenant)**](https://github.com/okingsaam/CodexLanche-SQL)  
+> Estrutura de banco de dados para lanchonetes e pizzarias, com suporte a múltiplos clientes (multi-tenant), segurança, normalização e performance.  
+
+🔹 [**Gerenciador de Finanças Pessoais**](https://github.com/okingsaam/Finance-Manager)  
+> Aplicativo desktop em **Python** para controle financeiro, com cálculo automático de despesas, receitas e relatórios.  
+
+🔹 [**Cadastro Simples em Java**](https://github.com/okingsaam/Cadastro-simples-java)  
+> Sistema básico em **Java** para cadastro de usuários, aplicando princípios de orientação a objetos.  
+
+---
+
+## 📊 Estatísticas do GitHub  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=okingsaam&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okingsaam&layout=compact&theme=radical" alt="Top Languages">
+</p>
+
+---
+
+## 📚 Em constante evolução  
+
+- Estudando **boas práticas de arquitetura back-end** (SOLID, Clean Code)  
+- Aprendendo sobre **CI/CD e testes automatizados**  
+- Aprofundando em **Django Rest Framework (DRF)** e **integração de APIs**  
+- Interesse em **Docker + Deploy em nuvem (AWS/Heroku)**  
+
+---
+
+## ✨ Curiosidades  
+
+- 🎯 Gosto de transformar ideias em sistemas funcionais  
+- 🧩 Sempre em busca de soluções simples para problemas complexos  
+- 🎮 Gamer nas horas vagas (e fã de lógica aplicada a jogos!)  
+
+---
