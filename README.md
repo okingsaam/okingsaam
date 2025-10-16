@@ -1,12 +1,13 @@
- <h1 align="center">👨‍💻 Sam Douglas</h1>
+<h1 align="center">👨‍💻 Sam Douglas</h1>
 <p align="center">
   <strong>Desenvolvedor Back-End Júnior</strong>  
-  🐍 Python • ☕ Java • 🌐 Django • 🗄️ MySQL & PostgreSQL
+  🐍 Python • ☕ Java • 🌐 Django • ⚡ FastAPI • 🗄️ MySQL, PostgreSQL & SQLite
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/sam-douglas-6076b91b8"><img src="https://img.shields.io/badge/LinkedIn-SamDouglas-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/okingsaam"><img src="https://img.shields.io/badge/GitHub-okingsaam-181717?style=flat&logo=github&logoColor=white"></a>
+  <a href="https://instagram.com/seu-usuario"><img src="https://img.shields.io/badge/Instagram-seu_usuario-E4405F?style=flat&logo=instagram&logoColor=white"></a>
 </p>
 
 ---
@@ -19,7 +20,11 @@ Atuo principalmente com **back-end**, desenvolvendo **APIs REST**, integrações
 - 🎓 Formação em andamento: **ADS**  
 - 🐍 Experiência prática em **Python** com **Django** e automações  
 - ☕ Conhecimento em **Java** (POO e aplicações simples)  
-- 🗄️ Modelagem e consultas avançadas em **MySQL** e **PostgreSQL**  
+- ⚡ Prática com **FastAPI** para APIs modernas e performáticas  
+- 🗄️ Modelagem e consultas avançadas em **MySQL**, **PostgreSQL** e **SQLite**  
+- 📦 Integração com **SQLAlchemy** e validação com **Pydantic**  
+- 🔐 Estudo de **autenticação com JWT** e segurança de APIs  
+- 📈 Documentação automática com **Swagger UI**  
 - 🚀 Interesse em **boas práticas de desenvolvimento, clean code e arquitetura de software**  
 - 🔎 Buscando oportunidades para atuar como **Desenvolvedor Back-End**  
 
@@ -30,18 +35,22 @@ Atuo principalmente com **back-end**, desenvolvendo **APIs REST**, integrações
 ### 💻 Linguagens e Frameworks
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white)
 
 ### 🗄️ Bancos de Dados
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
 ### 🧰 Ferramentas
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Pydantic](https://img.shields.io/badge/-Pydantic-0E1E2B?style=flat&logo=pydantic&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
 
 ---
 
@@ -55,6 +64,9 @@ Atuo principalmente com **back-end**, desenvolvendo **APIs REST**, integrações
 
 🔹 [**Cadastro Simples em Java**](https://github.com/okingsaam/Cadastro-simples-java)  
 > Sistema básico em **Java** para cadastro de usuários, aplicando princípios de orientação a objetos.  
+
+🔹 [**Prodask API (FastAPI + SQLite)**](https://github.com/okingsaam/prodask-api)  
+> API RESTful para gerenciamento de tarefas, produtos e usuários. CRUD completo com validação, documentação automática e arquitetura limpa.
 
 ---
 
@@ -73,6 +85,10 @@ Atuo principalmente com **back-end**, desenvolvendo **APIs REST**, integrações
 - Estudando **boas práticas de arquitetura back-end** (SOLID, Clean Code)  
 - Aprendendo sobre **CI/CD e testes automatizados**  
 - Aprofundando em **Django Rest Framework (DRF)** e **integração de APIs**  
+- Praticando com **FastAPI + SQLAlchemy + Pydantic**  
+- Criando APIs com **documentação automática via Swagger UI**  
+- Estudando **SQLite** como banco leve para protótipos e apps locais  
+- Aprendendo sobre **autenticação com JWT** e controle de acesso  
 - Interesse em **Docker + Deploy em nuvem (AWS/Heroku)**  
 
 ---
@@ -82,5 +98,3 @@ Atuo principalmente com **back-end**, desenvolvendo **APIs REST**, integrações
 - 🎯 Gosto de transformar ideias em sistemas funcionais  
 - 🧩 Sempre em busca de soluções simples para problemas complexos  
 - 🎮 Gamer nas horas vagas (e fã de lógica aplicada a jogos!)  
-
----
