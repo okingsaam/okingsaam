@@ -1,13 +1,13 @@
 <h1 align="center">👨‍💻 Sam Douglas</h1>
 <p align="center">
   <strong>Desenvolvedor Back-End Júnior</strong>  
-  🐍 Python • ☕ Java • 🌐 Django • ⚡ FastAPI • 🗄️ MySQL, PostgreSQL & SQLite
+  🐍 Python • ☕ Java • 🌐 Django • ⚡ FastAPI • 🗄️ MySQL, PostgreSQL & SQLite • 📊 Tkinter & Matplotlib
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/sam-douglas-6076b91b8"><img src="https://img.shields.io/badge/LinkedIn-SamDouglas-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/okingsaam"><img src="https://img.shields.io/badge/GitHub-okingsaam-181717?style=flat&logo=github&logoColor=white"></a>
-  <a href="https://instagram.com/seu-usuario"><img src="https://img.shields.io/badge/Instagram-seu_usuario-E4405F?style=flat&logo=instagram&logoColor=white"></a>
+  <a href="https://instagram.com/okingsaam"><img src="https://img.shields.io/badge/Instagram-okingsaam-E4405F?style=flat&logo=instagram&logoColor=white"></a>
 </p>
 
 ---
@@ -15,18 +15,20 @@
 ## 🧠 Sobre Mim  
 
 Sou **Douglas Santos**, estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia e resolução de problemas.  
-Atuo principalmente com **back-end**, desenvolvendo **APIs REST**, integrações com bancos de dados e sistemas escaláveis.  
+Atuo principalmente com **back-end**, desenvolvendo **APIs REST**, integrações com bancos de dados e sistemas escaláveis.
 
 - 🎓 Formação em andamento: **ADS**  
-- 🐍 Experiência prática em **Python** com **Django** e automações  
+- 🐍 Experiência prática em **Python** com **Django**, **FastAPI** e automações  
 - ☕ Conhecimento em **Java** (POO e aplicações simples)  
-- ⚡ Prática com **FastAPI** para APIs modernas e performáticas  
 - 🗄️ Modelagem e consultas avançadas em **MySQL**, **PostgreSQL** e **SQLite**  
 - 📦 Integração com **SQLAlchemy** e validação com **Pydantic**  
 - 🔐 Estudo de **autenticação com JWT** e segurança de APIs  
 - 📈 Documentação automática com **Swagger UI**  
-- 🚀 Interesse em **boas práticas de desenvolvimento, clean code e arquitetura de software**  
-- 🔎 Buscando oportunidades para atuar como **Desenvolvedor Back-End**  
+- 🖼️ Criação de interfaces gráficas com **Tkinter**  
+- 📊 Visualização de dados com **Matplotlib**  
+- 📁 Automação e manipulação de arquivos **CSV**  
+- 🧱 Arquitetura limpa e modular com boas práticas  
+- 🚀 Buscando oportunidades para atuar como **Desenvolvedor Back-End**
 
 ---
 
@@ -38,11 +40,14 @@ Atuo principalmente com **back-end**, desenvolvendo **APIs REST**, integrações
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![Tkinter](https://img.shields.io/badge/-Tkinter-003B57?style=flat&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=python&logoColor=white)
 
 ### 🗄️ Bancos de Dados
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![CSV](https://img.shields.io/badge/-CSV-A0A0A0?style=flat&logo=files&logoColor=white)
 
 ### 🧰 Ferramentas
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
@@ -97,4 +102,4 @@ Atuo principalmente com **back-end**, desenvolvendo **APIs REST**, integrações
 
 - 🎯 Gosto de transformar ideias em sistemas funcionais  
 - 🧩 Sempre em busca de soluções simples para problemas complexos  
-- 🎮 Gamer nas horas vagas (e fã de lógica aplicada a jogos!)  
+- 🎮 Gamer nas horas vagas (e fã de lógica aplicada a jogos!)
