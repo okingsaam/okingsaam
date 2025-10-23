@@ -1,7 +1,7 @@
 <h1 align="center">👨‍💻 Sam Douglas</h1>
 <p align="center">
   <strong>Desenvolvedor Back-End Júnior</strong><br>
-  🐍 Python • ☕ Java • 🌐 Django • ⚡ FastAPI • 🗄️ MySQL, PostgreSQL & SQLite • 🖼️ Tkinter • 📊 Matplotlib • 🌐 HTML • 📜 JavaScript
+  🐍 Python • ☕ Java • 🌐 Django • ⚡ FastAPI • 🗄️ MySQL, PostgreSQL & SQLite • 🖼️ Tkinter • 📊 Matplotlib • 🌐 HTML • 📜 JavaScript • 🛡️ PowerShell
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@ Atuo como **Desenvolvedor Back-End Júnior**, focado em criar APIs robustas, seg
 - 🎓 Formação: **ADS (em andamento)**
 - 🐍 Desenvolvimento com **Python**, **Django**, **FastAPI**
 - ☕ Programação orientada a objetos com **Java**
-- 🌐 Conhecimento em **HTML5** e **JavaScript** para integração web
+- 🌐 Conhecimento em **HTML5**, **JavaScript** e **PowerShell** para integração web e automações
 - 🗄️ Bancos de dados: **MySQL**, **PostgreSQL**, **SQLite**
 - 📦 ORM com **SQLAlchemy** e validação com **Pydantic**
 - 🔐 Autenticação com **JWT** e segurança de APIs
@@ -44,6 +44,7 @@ Atuo como **Desenvolvedor Back-End Júnior**, focado em criar APIs robustas, seg
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white)
@@ -102,6 +103,7 @@ API RESTful com CRUD completo, validação, documentação automática e arquite
 - 🧪 Estudando **testes automatizados com Pytest**
 - ☁️ Aprendendo sobre **deploy com Docker, Heroku e AWS**
 - 🧱 Explorando **Clean Code**, **SOLID** e boas práticas
+- 🛡️ Automatizando tarefas com **PowerShell** para ambientes Windows e DevOps
 
 ---
 
