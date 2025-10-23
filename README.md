@@ -1,7 +1,7 @@
 <h1 align="center">👨‍💻 Sam Douglas</h1>
 <p align="center">
   <strong>Desenvolvedor Back-End Júnior</strong><br>
-  🐍 Python • ☕ Java • 🌐 Django • ⚡ FastAPI • 🗄️ MySQL, PostgreSQL & SQLite • 🖼️ Tkinter • 📊 Matplotlib
+  🐍 Python • ☕ Java • 🌐 Django • ⚡ FastAPI • 🗄️ MySQL, PostgreSQL & SQLite • 🖼️ Tkinter • 📊 Matplotlib • 🌐 HTML • 📜 JavaScript
 </p>
 
 <p align="center">
@@ -17,11 +17,12 @@
 Olá! Sou **Douglas Santos**, estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado por tecnologia.  
 Atuo como **Desenvolvedor Back-End Júnior**, focado em criar APIs robustas, seguras e escaláveis.
 
-### 💡 Destaques
+### 💡 Principais Competências
 
 - 🎓 Formação: **ADS (em andamento)**
 - 🐍 Desenvolvimento com **Python**, **Django**, **FastAPI**
 - ☕ Programação orientada a objetos com **Java**
+- 🌐 Conhecimento em **HTML5** e **JavaScript** para integração web
 - 🗄️ Bancos de dados: **MySQL**, **PostgreSQL**, **SQLite**
 - 📦 ORM com **SQLAlchemy** e validação com **Pydantic**
 - 🔐 Autenticação com **JWT** e segurança de APIs
@@ -40,9 +41,11 @@ Atuo como **Desenvolvedor Back-End Júnior**, focado em criar APIs robustas, seg
 
 ### 💻 Linguagens & Frameworks  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/-Tkinter-003B57?style=flat&logo=python&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=python&logoColor=white)
