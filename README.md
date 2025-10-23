@@ -1,7 +1,7 @@
 <h1 align="center">👨‍💻 Sam Douglas</h1>
 <p align="center">
-  <strong>Desenvolvedor Back-End Júnior</strong>  
-  🐍 Python • ☕ Java • 🌐 Django • ⚡ FastAPI • 🗄️ MySQL, PostgreSQL & SQLite • 📊 Tkinter & Matplotlib
+  <strong>Desenvolvedor Back-End Júnior</strong><br>
+  🐍 Python • ☕ Java • 🌐 Django • ⚡ FastAPI • 🗄️ MySQL, PostgreSQL & SQLite • 🖼️ Tkinter • 📊 Matplotlib
 </p>
 
 <p align="center">
@@ -12,33 +12,33 @@
 
 ---
 
-## 🧠 Sobre Mim  
+## 🧠 Sobre Mim
 
-Sou **Douglas Santos**, estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia e resolução de problemas.  
-Atuo principalmente com **back-end**, desenvolvendo **APIs REST**, integrações com bancos de dados e sistemas escaláveis.
+Olá! Sou **Douglas Santos**, estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado por tecnologia.  
+Atuo como **Desenvolvedor Back-End Júnior**, focado em criar APIs robustas, seguras e escaláveis.
 
-- 🎓 Formação em andamento: **ADS**  
-- 🐍 Experiência prática em **Python** com **Django**, **FastAPI** e automações  
-- ☕ Conhecimento em **Java** (POO e aplicações simples)  
-- 🗄️ Modelagem e consultas avançadas em **MySQL**, **PostgreSQL** e **SQLite**  
-- 📦 Integração com **SQLAlchemy** e validação com **Pydantic**  
-- 🔐 Estudo de **autenticação com JWT** e segurança de APIs  
-- 📈 Documentação automática com **Swagger UI**  
-- 🖼️ Criação de interfaces gráficas com **Tkinter**  
-- 📊 Visualização de dados com **Matplotlib**  
-- 📁 Automação e manipulação de arquivos **CSV**  
-- 🧱 Arquitetura limpa e modular com boas práticas  
-- 🔄 Estudo de **CI/CD**, **testes automatizados** e **integração contínua**  
-- ☁️ Interesse em **Docker**, **AWS**, **Heroku** e **deploy em nuvem**  
-- 🧪 Prática com **testes unitários** e **pytest**  
-- 🔄 Versionamento com **Git** e uso de **GitHub Actions**  
-- 🚀 Buscando oportunidades para atuar como **Desenvolvedor Back-End**
+### 💡 Destaques
+
+- 🎓 Formação: **ADS (em andamento)**
+- 🐍 Desenvolvimento com **Python**, **Django**, **FastAPI**
+- ☕ Programação orientada a objetos com **Java**
+- 🗄️ Bancos de dados: **MySQL**, **PostgreSQL**, **SQLite**
+- 📦 ORM com **SQLAlchemy** e validação com **Pydantic**
+- 🔐 Autenticação com **JWT** e segurança de APIs
+- 📈 Documentação com **Swagger UI**
+- 🖼️ Interfaces gráficas com **Tkinter**
+- 📊 Visualização de dados com **Matplotlib**
+- 📁 Manipulação de arquivos **CSV**
+- 🧪 Testes automatizados com **Pytest**
+- 🔄 CI/CD com **GitHub Actions**
+- 🐳 Deploy com **Docker**, **Heroku** e estudo de **AWS**
+- 🧱 Arquitetura limpa, modular e boas práticas
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas  
+## 🛠️ Tecnologias & Ferramentas
 
-### 💻 Linguagens e Frameworks
+### 💻 Linguagens & Frameworks  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
@@ -49,13 +49,13 @@ Atuo principalmente com **back-end**, desenvolvendo **APIs REST**, integrações
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-8B0000?style=flat&logo=python&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/-Pydantic-0E1E2B?style=flat&logo=pydantic&logoColor=white)
 
-### 🗄️ Bancos de Dados
+### 🗄️ Bancos de Dados  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![CSV](https://img.shields.io/badge/-CSV-A0A0A0?style=flat&logo=files&logoColor=white)
 
-### 🧰 Ferramentas
+### 🧰 Ferramentas  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -63,3 +63,47 @@ Atuo principalmente com **back-end**, desenvolvendo **APIs REST**, integrações
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
 ![Pytest](https://img.shields.io/badge/-Pytest-0A0A0A?style=flat&logo=python&logoColor=white)
+
+---
+
+## 🚀 Projetos em Destaque
+
+🔹 [**CodexLanche (Multi-Tenant)**](https://github.com/okingsaam/CodexLanche-SQL)  
+Sistema de banco de dados para lanchonetes e pizzarias com suporte a múltiplos clientes, segurança e performance.
+
+🔹 [**Gerenciador de Finanças Pessoais**](https://github.com/okingsaam/Finance-Manager)  
+Aplicativo desktop em Python para controle financeiro com relatórios e visualizações.
+
+🔹 [**Cadastro Simples em Java**](https://github.com/okingsaam/Cadastro-simples-java)  
+Sistema básico de cadastro com princípios de POO.
+
+🔹 [**Prodask API (FastAPI + SQLite)**](https://github.com/okingsaam/prodask-api)  
+API RESTful com CRUD completo, validação, documentação automática e arquitetura limpa.
+
+---
+
+## 📈 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=okingsaam&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okingsaam&layout=compact&theme=radical" alt="Top Languages">
+</p>
+
+---
+
+## 📚 Em Evolução Contínua
+
+- 🔍 Aprofundando em **Django Rest Framework (DRF)**
+- 🔄 Praticando **CI/CD com GitHub Actions**
+- 🧪 Estudando **testes automatizados com Pytest**
+- ☁️ Aprendendo sobre **deploy com Docker, Heroku e AWS**
+- 🧱 Explorando **Clean Code**, **SOLID** e boas práticas
+
+---
+
+## ✨ Curiosidades
+
+- 🎯 Transformo ideias em sistemas funcionais  
+- 🧩 Busco soluções simples para problemas complexos  
+- 🎮 Gamer nas horas vagas e fã de lógica aplicada a jogos
