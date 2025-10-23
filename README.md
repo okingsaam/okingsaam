@@ -1,4 +1,4 @@
- <h1 align="center">👨‍💻 Sam Douglas</h1>
+<h1 align="center">👨‍💻 Sam Douglas</h1>
 <p align="center">
   <strong>Desenvolvedor Back-End Júnior</strong><br>
   🐍 Python • ☕ Java • 🌐 Django • ⚡ FastAPI • 🗄️ MySQL, PostgreSQL & SQLite • 🖼️ Tkinter • 📊 Matplotlib • 🌐 HTML • 📜 JavaScript • 🛡️ PowerShell
