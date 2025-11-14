@@ -1,7 +1,7 @@
- <h1 align="center">👨‍💻 Sam Douglas</h1>
+<h1 align="center">👨‍💻 Sam Douglas</h1>
 <p align="center">
   <strong>Desenvolvedor Back-End Júnior</strong><br>
-  🐍 Python • ☕ Java • 🌐 Django • ⚡ FastAPI • 🗄️ MySQL, PostgreSQL & SQLite • 🖼️ Tkinter • 📊 Matplotlib • 🌐 HTML • 📜 JavaScript • 🛡️ PowerShell
+  🐍 Python • ☕ Java • ⚛️ React • ⚡ FastAPI • 🌐 Django • 🧠 Node.js • 🛠️ Express • 🗄️ MySQL, PostgreSQL & SQLite • 🖼️ Tkinter • 📊 Matplotlib • 🌐 HTML • 📜 JavaScript • 🛡️ PowerShell
 </p>
 
 <p align="center">
@@ -22,15 +22,18 @@ Atuo como **Desenvolvedor Back-End Júnior**, focado em criar APIs robustas, seg
 - 🎓 Formação: **ADS (em andamento)**
 - 🐍 Desenvolvimento com **Python**, **Django**, **FastAPI**
 - ☕ Programação orientada a objetos com **Java**
+- ⚛️ Desenvolvimento com **React** e **Vite**
+- 🧠 Backend com **Node.js** e **Express**
+- 🔐 Autenticação com **JWT** em aplicações fullstack
+- 🔄 Integração entre **frontend React** e **backend Node.js**
 - 🌐 Conhecimento em **HTML5**, **JavaScript** e **PowerShell** para integração web e automações
 - 🗄️ Bancos de dados: **MySQL**, **PostgreSQL**, **SQLite**
 - 📦 ORM com **SQLAlchemy** e validação com **Pydantic**
-- 🔐 Autenticação com **JWT** e segurança de APIs
 - 📈 Documentação com **Swagger UI**
 - 🖼️ Interfaces gráficas com **Tkinter**
 - 📊 Visualização de dados com **Matplotlib**
 - 📁 Manipulação de arquivos **CSV**
-- 🧪 Testes automatizados com **Pytest**
+- 🧪 Testes automatizados com **Pytest**, **Jest**, **Supertest**
 - 🔄 CI/CD com **GitHub Actions**
 - 🐳 Deploy com **Docker**, **Heroku** e estudo de **AWS**
 - 🧱 Arquitetura limpa, modular e boas práticas
@@ -45,6 +48,10 @@ Atuo como **Desenvolvedor Back-End Júnior**, focado em criar APIs robustas, seg
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white)
@@ -67,6 +74,11 @@ Atuo como **Desenvolvedor Back-End Júnior**, focado em criar APIs robustas, seg
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
 ![Pytest](https://img.shields.io/badge/-Pytest-0A0A0A?style=flat&logo=python&logoColor=white)
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
+![Supertest](https://img.shields.io/badge/-Supertest-333?style=flat&logo=supertest&logoColor=white)
+![Axios](https://img.shields.io/badge/-Axios-5A29E4?style=flat&logo=axios&logoColor=white)
+![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![Nodemon](https://img.shields.io/badge/-Nodemon-76D04B?style=flat&logo=nodemon&logoColor=white)
 
 ---
 
@@ -84,31 +96,12 @@ Sistema básico de cadastro com princípios de POO.
 🔹 [**Prodask API (FastAPI + SQLite)**](https://github.com/okingsaam/prodask-api)  
 API RESTful com CRUD completo, validação, documentação automática e arquitetura limpa.
 
+🔹 [**Chequim (React + Node.js)**](https://github.com/okingsaam/chequim)  
+Sistema de tarefas com autenticação JWT, frontend em React e backend em Node.js + MongoDB.
+
 ---
 
 ## 📈 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=okingsaam&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=okingsaam&layout=compact&theme=radical" alt="Top Languages">
-</p>
-
----
-
-## 📚 Em Evolução Contínua
-
-- 🔍 Aprofundando em **Django Rest Framework (DRF)**
-- 🔄 Praticando **CI/CD com GitHub Actions**
-- 🧪 Estudando **testes automatizados com Pytest**
-- ☁️ Aprendendo sobre **deploy com Docker, Heroku e AWS**
-- 🧱 Explorando **Clean Code**, **SOLID** e boas práticas
-- 🛡️ Automatizando tarefas com **PowerShell** para ambientes Windows e DevOps
-
----
-
-## ✨ Curiosidades
-
-- 🎯 Transformo ideias em sistemas funcionais  
-- 🧩 Busco soluções simples para problemas complexos  
-- 🎮 Gamer nas horas vagas e fã de lógica aplicada a jogos
+  <img
