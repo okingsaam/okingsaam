@@ -1,7 +1,7 @@
 <h1 align="center">👨‍💻 Sam Douglas</h1>
 <p align="center">
   <strong>Desenvolvedor Back-End Júnior</strong><br>
-  🐍 Python • ☕ Java • ⚛️ React • ⚡ FastAPI • 🌐 Django • 🧠 Node.js • 🛠️ Express • 🗄️ MySQL, PostgreSQL & SQLite • 🖼️ Tkinter • 📊 Matplotlib • 🌐 HTML • 📜 JavaScript • 🛡️ PowerShell
+  🐍 Python • ☕ Java • 🌐 Django • ⚡ FastAPI • 🗄️ MySQL, PostgreSQL & SQLite • 🖼️ Tkinter • 📊 Matplotlib • 🌐 HTML • 📜 JavaScript • 🛡️ PowerShell • ⚛️ React • 🧠 Node.js • 🛠️ Express
 </p>
 
 <p align="center">
@@ -22,21 +22,25 @@ Atuo como **Desenvolvedor Back-End Júnior**, focado em criar APIs robustas, seg
 - 🎓 Formação: **ADS (em andamento)**
 - 🐍 Desenvolvimento com **Python**, **Django**, **FastAPI**
 - ☕ Programação orientada a objetos com **Java**
-- ⚛️ Desenvolvimento com **React** e **Vite**
-- 🧠 Backend com **Node.js** e **Express**
-- 🔐 Autenticação com **JWT** em aplicações fullstack
-- 🔄 Integração entre **frontend React** e **backend Node.js**
 - 🌐 Conhecimento em **HTML5**, **JavaScript** e **PowerShell** para integração web e automações
 - 🗄️ Bancos de dados: **MySQL**, **PostgreSQL**, **SQLite**
 - 📦 ORM com **SQLAlchemy** e validação com **Pydantic**
+- 🔐 Autenticação com **JWT** e segurança de APIs
 - 📈 Documentação com **Swagger UI**
 - 🖼️ Interfaces gráficas com **Tkinter**
 - 📊 Visualização de dados com **Matplotlib**
 - 📁 Manipulação de arquivos **CSV**
-- 🧪 Testes automatizados com **Pytest**, **Jest**, **Supertest**
+- 🧪 Testes automatizados com **Pytest**
 - 🔄 CI/CD com **GitHub Actions**
 - 🐳 Deploy com **Docker**, **Heroku** e estudo de **AWS**
 - 🧱 Arquitetura limpa, modular e boas práticas
+- ⚛️ Desenvolvimento com **React** e **Vite**
+- 🧠 Backend com **Node.js** e **Express**
+- 🔄 Integração entre **frontend React** e **backend Node.js**
+- 🧭 Navegação com **React Router DOM**
+- 🌍 Consumo de APIs com **Axios**
+- 🧪 Testes com **Jest** e **Supertest**
+- 🧰 Uso de ferramentas como **Nodemon**, **dotenv**, **CORS**
 
 ---
 
@@ -48,10 +52,6 @@ Atuo como **Desenvolvedor Back-End Júnior**, focado em criar APIs robustas, seg
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white)
@@ -59,6 +59,10 @@ Atuo como **Desenvolvedor Back-End Júnior**, focado em criar APIs robustas, seg
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=python&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-8B0000?style=flat&logo=python&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/-Pydantic-0E1E2B?style=flat&logo=pydantic&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
 
 ### 🗄️ Bancos de Dados  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -96,12 +100,4 @@ Sistema básico de cadastro com princípios de POO.
 🔹 [**Prodask API (FastAPI + SQLite)**](https://github.com/okingsaam/prodask-api)  
 API RESTful com CRUD completo, validação, documentação automática e arquitetura limpa.
 
-🔹 [**Chequim (React + Node.js)**](https://github.com/okingsaam/chequim)  
-Sistema de tarefas com autenticação JWT, frontend em React e backend em Node.js + MongoDB.
-
----
-
-## 📈 GitHub Insights
-
-<p align="center">
-  <img
+🔹 [**Chequim (React + Node.js)**](https://github.com
