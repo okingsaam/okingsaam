@@ -7,9 +7,9 @@ Focused on API development and system integration.
 
 ### About
 
-Backend developer with experience in Python and JavaScript, focused on building secure and scalable APIs.
+Backend developer with experience in Python and Java, focused on building secure and scalable APIs.
 
-Currently improving my skills in Java and Spring Boot, aiming to grow as a backend engineer.
+Currently focused on Java and Spring Boot, aiming to grow as a backend engineer.
 
 I value clean code, good practices, and continuous learning.
 
@@ -17,12 +17,9 @@ I value clean code, good practices, and continuous learning.
 
 ### Main Technologies
 
-- Python (FastAPI, Django)
-- JavaScript (Node.js, Express)
-- Java (Spring Boot - studying)
-- PostgreSQL, MySQL, SQLite
-- Docker, AWS
-- Git, GitHub
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,java,spring,nodejs,postgres,mysql,sqlite,docker,aws,git,github,vscode,linux" />
+</p>
 
 ---
 
@@ -57,6 +54,16 @@ I value clean code, good practices, and continuous learning.
 
 ### Contact
 
-LinkedIn: https://www.linkedin.com/in/samdouglas-dev/  
-GitHub: https://github.com/okingsaam  
-Instagram: https://www.instagram.com/okingsaam/
+<p align="left">
+  <a href="https://www.linkedin.com/in/samdouglas-dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="35" />
+  </a>
+
+  <a href="https://github.com/okingsaam" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="35" />
+  </a>
+
+  <a href="https://www.instagram.com/okingsaam/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="35" />
+  </a>
+</p>
