@@ -1,52 +1,61 @@
-<h1 align="center">👨‍💻 Sam Douglas</h1>
-<p align="center">
-  <strong>Desenvolvedor Back-End Júnior</strong><br>
-  🐍 Python • ☕ JavaScript • ⚡ FastAPI • 🌐 Django • 🧠 Node.js • ⚛️ React • 🚀 AWS
-</p>
+## 👋 Hi, I'm Sam Douglas
 
-<p align="center">
-  <a href="https://linkedin.com/in/sam-douglas-6076b91b8"><img src="https://img.shields.io/badge/LinkedIn-SamDouglas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/okingsaam"><img src="https://img.shields.io/badge/GitHub-okingsaam-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://instagram.com/okingsaam"><img src="https://img.shields.io/badge/Instagram-okingsaam-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-</p>
+Junior Backend Developer  
+Student of Systems Analysis and Development (ADS)
+
+🐍 Python | ☕ JavaScript | ⚡ FastAPI | 🌐 Django | 🧠 Node.js | ☁️ AWS
 
 ---
 
-## 🧠 Sobre Mim
-Sou **Douglas Santos**, estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor back-end júnior.  
-Tenho experiência na criação de **APIs seguras e escaláveis**, automações com Python e integração entre sistemas.  
-Busco aplicar boas práticas e entregar soluções eficientes.
+## 🚀 About Me
+
+I'm Sam Douglas, a Junior Backend Developer and ADS student, focused on building secure, scalable, and well-structured systems.
+
+I have experience developing RESTful APIs, automations with Python, and system integrations.
+
+I’m committed to applying best practices, writing clean code, and delivering efficient solutions.
 
 ---
 
-## 💡 Competências
-- 🐍 **Python (Django, FastAPI)**  
-- 🌐 **JavaScript (Node.js, Express)**  
-- 🗄️ Bancos de dados: **MySQL, PostgreSQL, SQLite**  
-- 🔐 Autenticação com **JWT**  
-- 📑 Documentação com **Swagger UI**  
-- 🧪 Testes com **Pytest, Supertest**  
-- 🔄 CI/CD com **GitHub Actions**  
-- 🐳 Deploy com **Docker, Heroku, AWS**  
-- ⚙️ Automação de tarefas e organização de arquivos com Python  
+## 🧠 Core Skills
+
+- 🐍 Python (Django, FastAPI)  
+- 🌐 JavaScript (Node.js, Express)  
+- 🗄️ Databases: MySQL, PostgreSQL, SQLite  
+- 🔐 JWT Authentication  
+- 📑 API Documentation (Swagger/OpenAPI)  
+- 🧪 Testing (Pytest, Supertest)  
+- 🔄 CI/CD (GitHub Actions)  
+- 🐳 Docker, Heroku, AWS  
+- ⚙️ Process Automation with Python  
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🛠️ Technologies
 
-### 🔹 [API-BANCARIA](https://github.com/okingsaam/API-BANCARIA)
-API bancária desenvolvida em Python, com estrutura modular e operações básicas.
-
-### 🔹 [Organizador de Arquivos com Python](https://github.com/okingsaam/Organizador-de-Arquivos-com-Python)
-Script que organiza arquivos automaticamente em pastas por tipo. Projeto de estudo e portfólio.
-
-### 🔹 [API-REST-NODE](https://github.com/okingsaam/API-REST-NODE)
-API RESTful com Node.js e Express, seguindo boas práticas e arquitetura limpa.
-
-### 🔹 [Sistema Bancário em Python](https://github.com/okingsaam/Sistema_Bancario_Python)
-Simulação de operações bancárias como depósito, saque e extrato, com foco em otimização de funções.
+[![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,nodejs,js,postgres,mysql,docker,aws,git,github,vscode)](https://skillicons.dev)
 
 ---
 
-## 🌐 Contato
-📩 [LinkedIn](https://linkedin.com/in/sam-douglas-6076b91b8) • 🐙 [GitHub](https://github.com/okingsaam) • 📸 [Instagram](https://instagram.com/okingsaam)
+## 📂 Featured Projects
+
+### 🔹 API-BANCARIA
+Asynchronous banking API with FastAPI.
+
+### 🔹 File Organizer (Python)
+Automation script for file organization.
+
+### 🔹 API-REST-NODE
+REST API built with Node.js and Express.
+
+### 🔹 Banking System (Python)
+Banking operations simulation in Python.
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/okingsaam">
+    <img width="49%" height="195px"
+         src="https://github
