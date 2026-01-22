@@ -1,61 +1,62 @@
-## 👋 Hi, I'm Sam Douglas
+## Sam Douglas
 
-Junior Backend Developer  
-Student of Systems Analysis and Development (ADS)
-
-🐍 Python | ☕ JavaScript | ⚡ FastAPI | 🌐 Django | 🧠 Node.js | ☁️ AWS
+Junior Backend Developer | ADS Student  
+Focused on API development and system integration.
 
 ---
 
-## 🚀 About Me
+### About
 
-I'm Sam Douglas, a Junior Backend Developer and ADS student, focused on building secure, scalable, and well-structured systems.
+Backend developer with experience in Python and JavaScript, focused on building secure and scalable APIs.
 
-I have experience developing RESTful APIs, automations with Python, and system integrations.
+Currently improving my skills in Java and Spring Boot, aiming to grow as a backend engineer.
 
-I’m committed to applying best practices, writing clean code, and delivering efficient solutions.
-
----
-
-## 🧠 Core Skills
-
-- 🐍 Python (Django, FastAPI)  
-- 🌐 JavaScript (Node.js, Express)  
-- 🗄️ Databases: MySQL, PostgreSQL, SQLite  
-- 🔐 JWT Authentication  
-- 📑 API Documentation (Swagger/OpenAPI)  
-- 🧪 Testing (Pytest, Supertest)  
-- 🔄 CI/CD (GitHub Actions)  
-- 🐳 Docker, Heroku, AWS  
-- ⚙️ Process Automation with Python  
+I value clean code, good practices, and continuous learning.
 
 ---
 
-## 🛠️ Technologies
+### Main Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,nodejs,js,postgres,mysql,docker,aws,git,github,vscode)](https://skillicons.dev)
-
----
-
-## 📂 Featured Projects
-
-### 🔹 API-BANCARIA
-Asynchronous banking API with FastAPI.
-
-### 🔹 File Organizer (Python)
-Automation script for file organization.
-
-### 🔹 API-REST-NODE
-REST API built with Node.js and Express.
-
-### 🔹 Banking System (Python)
-Banking operations simulation in Python.
+- Python (FastAPI, Django)
+- JavaScript (Node.js, Express)
+- Java (Spring Boot - studying)
+- PostgreSQL, MySQL, SQLite
+- Docker, AWS
+- Git, GitHub
 
 ---
 
-## 📈 GitHub Stats
+### Featured Projects
+
+- **API-BANCARIA**  
+  https://github.com/okingsaam/API-BANCARIA
+
+- **API-REST-NODE**  
+  https://github.com/okingsaam/API-REST-NODE
+
+- **File Organizer (Python)**  
+  https://github.com/okingsaam/Organizador-de-Arquivos-com-Python
+
+- **Banking System (Python)**  
+  https://github.com/okingsaam/Sistema_Bancario_Python
+
+---
+
+### GitHub Stats
 
 <div align="center">
   <a href="https://github.com/okingsaam">
-    <img width="49%" height="195px"
-         src="https://github
+    <img width="49%" height="180px"
+         src="https://github-readme-stats.vercel.app/api?username=okingsaam&show_icons=true&hide_border=true&theme=dark" />
+    <img width="41%" height="180px"
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=okingsaam&layout=compact&hide_border=true&theme=dark" />
+  </a>
+</div>
+
+---
+
+### Contact
+
+LinkedIn: https://www.linkedin.com/in/samdouglas-dev/  
+GitHub: https://github.com/okingsaam  
+Instagram: https://www.instagram.com/okingsaam/
