@@ -1,45 +1,54 @@
 ## Sam Douglas
 
-Junior Backend Developer | ADS Student  
-Focused on API development and system integration.
+**Junior Backend Developer | ADS Student**  
+Focused on building robust APIs, system integration and backend architecture.
 
 ---
 
-### About
+### 👨‍💻 About
 
-Backend developer with experience in Python and Java, focused on building secure and scalable APIs.
+Backend developer focused on **Java and Spring Boot**, with experience in **Python**, building secure, scalable and well-structured APIs.
 
-Currently focused on Java and Spring Boot, aiming to grow as a backend engineer.
+Currently evolving a complete backend project, applying **clean architecture, best practices, relational modeling, security and containerization**, aiming to reach production-level standards.
 
-I value clean code, good practices, and continuous learning.
+I value:
+- Clean code
+- Clear architecture
+- Strong backend fundamentals
+- Continuous learning
+- Real-world engineering practices
 
 ---
 
-### Main Technologies
+### 🛠️ Main Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django,java,spring,nodejs,postgres,mysql,sqlite,docker,aws,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,django,postgres,mysql,sqlite,docker,aws,git,github,linux,vscode" />
 </p>
 
 ---
 
-### Featured Projects
+### 🚀 Featured Backend Projects
 
-- **API-BANCARIA**  
-  https://github.com/okingsaam/API-BANCARIA
+- **Backend Order System (Spring Boot)**  
+  Professional backend project with layered architecture, PostgreSQL, JPA, and roadmap to microservices  
+  👉 https://github.com/okingsaam/apipedidos
 
-- **API-REST-NODE**  
-  https://github.com/okingsaam/API-REST-NODE
+- **Banking API (Python)**  
+  REST API simulating a banking system with business rules  
+  👉 https://github.com/okingsaam/API-BANCARIA
+
+- **REST API with Node.js**  
+  CRUD API with authentication and database integration  
+  👉 https://github.com/okingsaam/API-REST-NODE
 
 - **File Organizer (Python)**  
-  https://github.com/okingsaam/Organizador-de-Arquivos-com-Python
-
-- **Banking System (Python)**  
-  https://github.com/okingsaam/Sistema_Bancario_Python
+  Automation script for file management  
+  👉 https://github.com/okingsaam/Organizador-de-Arquivos-com-Python
 
 ---
 
-### GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/okingsaam">
@@ -52,17 +61,15 @@ I value clean code, good practices, and continuous learning.
 
 ---
 
-### Contact
+### 📫 Contact
 
 <p align="left">
   <a href="https://www.linkedin.com/in/samdouglas-dev/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="35" />
   </a>
-
   <a href="https://github.com/okingsaam" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="35" />
   </a>
-
   <a href="https://www.instagram.com/okingsaam/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="35" />
   </a>
