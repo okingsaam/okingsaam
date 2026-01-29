@@ -9,7 +9,7 @@ Focused on building robust APIs, system integration and backend architecture.
 
 Backend developer focused on **Java and Spring Boot**, with experience in **Python**, building secure, scalable and well-structured APIs.
 
-Currently evolving a complete backend project, applying **clean architecture, best practices, relational modeling, security and containerization**, aiming to reach production-level standards.
+Currently evolving a complete backend project, applying **clean architecture, best practices, relational modeling, security, containerization and cloud deployment**, aiming to reach production-level standards.
 
 I value:
 - Clean code
@@ -20,10 +20,18 @@ I value:
 
 ---
 
+### 📚 Currently Studying
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring,aws,docker,hibernate,postgres" />
+</p>
+
+---
+
 ### 🛠️ Main Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,django,postgres,mysql,sqlite,docker,aws,git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,django,postgres,mysql,sqlite,docker,aws,git,github,linux,vscode,postman,hibernate,maven" />
 </p>
 
 ---
@@ -31,7 +39,7 @@ I value:
 ### 🚀 Featured Backend Projects
 
 - **Backend Order System (Spring Boot)**  
-  Professional backend project with layered architecture, PostgreSQL, JPA, and roadmap to microservices  
+  Professional backend project with layered architecture, PostgreSQL, JPA, Spring Security, JWT and roadmap to microservices  
   👉 https://github.com/okingsaam/apipedidos
 
 - **Banking API (Python)**  
