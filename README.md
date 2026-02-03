@@ -1,4 +1,4 @@
- ## Sam Douglas
+## Sam Douglas
 
 **Junior Backend Developer | ADS Student**  
 Focused on building robust APIs, system integration and backend architecture.
