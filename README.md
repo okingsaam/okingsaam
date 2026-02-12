@@ -1,22 +1,22 @@
 ## Sam Douglas
 
 **Junior Backend Developer | ADS Student**  
-Focused on building robust APIs, system integration and backend architecture.
+Focused on building robust APIs, system integration, and backend architecture.
 
 ---
 
 ### 👨‍💻 About
 
-Backend developer focused on **Java and Spring Boot**, with experience in **Python**, building secure, scalable and well-structured APIs.
+Backend developer focused on **Java and Spring Boot**, with experience in **Python**, building secure, scalable, and well-structured APIs.
 
-Currently evolving a complete backend project, applying **clean architecture, best practices, relational modeling, security, containerization and cloud deployment**, aiming to reach production-level standards.
+Currently developing a complete backend project, applying **clean architecture, best practices, relational modeling, security, containerization, and cloud deployment**, aiming to reach production-level standards.
 
 I value:
-- Clean code
-- Clear architecture
-- Strong backend fundamentals
-- Continuous learning
-- Real-world engineering practices
+- Clean code  
+- Clear architecture  
+- Strong backend fundamentals  
+- Continuous learning  
+- Real-world engineering practices  
 
 ---
 
@@ -39,11 +39,11 @@ I value:
 ### 🚀 Featured Backend Projects
 
 - **Backend Order System (Spring Boot)**  
-  Professional backend project with layered architecture, PostgreSQL, JPA, Spring Security, JWT and roadmap to microservices  
+  Professional backend project with layered architecture, PostgreSQL, JPA, Spring Security, JWT, and a roadmap toward microservices  
   👉 https://github.com/okingsaam/apipedidos
 
 - **Banking API (Python)**  
-  REST API simulating a banking system with business rules  
+  REST API simulating a banking system with structured business rules  
   👉 https://github.com/okingsaam/API-BANCARIA
 
 - **REST API with Node.js**  
@@ -51,7 +51,7 @@ I value:
   👉 https://github.com/okingsaam/API-REST-NODE
 
 - **File Organizer (Python)**  
-  Automation script for file management  
+  Automation script for file management and organization  
   👉 https://github.com/okingsaam/Organizador-de-Arquivos-com-Python
 
 ---
@@ -59,12 +59,11 @@ I value:
 ### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/okingsaam">
-    <img width="49%" height="180px"
-         src="https://github-readme-stats.vercel.app/api?username=okingsaam&show_icons=true&hide_border=true&theme=dark" />
-    <img width="41%" height="180px"
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=okingsaam&layout=compact&hide_border=true&theme=dark" />
-  </a>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=okingsaam&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okingsaam&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 ---
