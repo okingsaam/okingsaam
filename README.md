@@ -1,58 +1,66 @@
 ## Sam Douglas
 
 **Junior Backend Developer | ADS Student**  
-Focused on building robust APIs, system integration, and backend architecture.
+Focused on backend development and APIs.
 
 ---
 
 ### 👨‍💻 About
 
-Backend developer focused on **Java and Spring Boot**, with experience in **Python**, building secure, scalable, and well-structured APIs.
+Backend developer focused on **Java and Spring Boot**, with experience in **Python**, building REST APIs and structured backend applications.
 
-Currently developing a complete backend project, applying **clean architecture, best practices, relational modeling, security, containerization, and cloud deployment**, aiming to reach production-level standards.
+Currently evolving backend projects applying **clean architecture, relational modeling, security fundamentals and containerization**, aiming to reach production-ready standards.
 
 I value:
-- Clean code  
-- Clear architecture  
+- Clean and readable code  
+- Well-defined architecture  
 - Strong backend fundamentals  
 - Continuous learning  
-- Real-world engineering practices  
+- Practical projects  
 
 ---
 
-### 📚 Currently Studying
+### 🧰 Technologies & Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,aws,docker,hibernate,postgres" />
+<p>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+<img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=testinglibrary&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+
 </p>
 
 ---
 
-### 🛠️ Main Technologies
+### 🚀 Featured Projects
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,django,postgres,mysql,sqlite,docker,aws,git,github,linux,vscode,postman,hibernate,maven" />
-</p>
+**Order Management API (Spring Boot)**  
+Layered backend with database integration and authentication roadmap  
+👉 https://github.com/okingsaam/apipedidos
 
----
-
-### 🚀 Featured Backend Projects
-
-- **Backend Order System (Spring Boot)**  
-  Professional backend project with layered architecture, PostgreSQL, JPA, Spring Security, JWT, and a roadmap toward microservices  
-  👉 https://github.com/okingsaam/apipedidos
-
-- **Banking API (Python)**  
-  REST API simulating a banking system with structured business rules  
-  👉 https://github.com/okingsaam/API-BANCARIA
-
-- **REST API with Node.js**  
-  CRUD API with authentication and database integration  
-  👉 https://github.com/okingsaam/API-REST-NODE
-
-- **File Organizer (Python)**  
-  Automation script for file management and organization  
-  👉 https://github.com/okingsaam/Organizador-de-Arquivos-com-Python
+**Banking API (Python)**  
+REST API simulating banking rules and transactions  
+👉 https://github.com/okingsaam/API-BANCARIA
 
 ---
 
@@ -60,9 +68,9 @@ I value:
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=okingsaam&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=okingsaam&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okingsaam&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okingsaam&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -70,14 +78,5 @@ I value:
 
 ### 📫 Contact
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/samdouglas-dev/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="35" />
-  </a>
-  <a href="https://github.com/okingsaam" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="35" />
-  </a>
-  <a href="https://www.instagram.com/okingsaam/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="35" />
-  </a>
-</p>
+- LinkedIn: https://www.linkedin.com/in/samdouglas-dev/  
+- GitHub: https://github.com/okingsaam
