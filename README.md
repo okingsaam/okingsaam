@@ -1,5 +1,5 @@
 ## Sam Douglas Francisco dos Santos
-**Junior Backend Developer | Java · Spring Boot · REST APIs · PostgreSQL**
+** Backend Developer | Java · Spring Boot · REST APIs · PostgreSQL**
 Focused on building structured, production-ready backend systems.
 
 ---
